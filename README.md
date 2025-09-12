@@ -9,7 +9,7 @@ The dashboard highlights sales performance, product insights, and geographical t
 
 ### 1. Data Collection
 - Source: [Kaggle – Amazon Sales Dataset](https://www.kaggle.com/)  
-- Records: ~120K orders, 22 columns (order details, shipping, sales channels, etc.)
+- Records: ~120K orders, 22 columns (order details, shipping, sales channels, etc.) for the year 2022
 
 ### 2. Data Cleaning (Python – Jupyter Notebook)
 - Removed null values & dropped unnecessary columns  
