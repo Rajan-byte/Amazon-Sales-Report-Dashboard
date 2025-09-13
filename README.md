@@ -1,9 +1,16 @@
 # 📊 Sales Dashboard Project (Python + Power BI)
 
+## Skills Highlighted:  
+- Data Cleaning with Python  
+- Feature Engineering  
+- DAX (Power BI measures)  
+- Dashboard Design & Data Visualization  
+- Business Insights & Storytelling
+
 ## 🚀 Project Overview
 This project demonstrates an **end-to-end Data Science and Business Intelligence workflow**.  
-I started with a raw Kaggle dataset (Amazon sales), performed **data cleaning in Python**, and built an **interactive dashboard in Power BI**.  
-The dashboard highlights sales performance, product insights, and geographical trends.
+I started with a raw Kaggle dataset (Amazon sales for year 2022), performed **data cleaning in Python**, and built an **interactive dashboard in Power BI**.  
+The dashboard highlights sales performance, product insights, and KPIs.
 
 ## 📂 Project Workflow
 
