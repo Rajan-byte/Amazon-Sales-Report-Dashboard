@@ -25,7 +25,7 @@ The dashboard highlights sales performance, product insights, and geographical t
   - `Total Quantity`  
   - `Order Count`  
   - `Average Order Value`  
-- Built 3-page dashboard:  
+- Built a dashboard:  
   - **Sales Overview** – KPIs, sales trend, sales by category, channel split   
   - **Product Insights** – Top SKUs, category vs style analysis 
 
